@@ -5,6 +5,7 @@
 ^LICENSE\.md$
 ^_pkgdown\.yml$
 ^docs$
+^dev$
 ^pkgdown$
 ^\.github$
 .gitlab-ci.yml

@@ -1,7 +1,4 @@
-<img src="man/figures/Hexagon_zueriverse.png" alt="Hexagon logo for zueriverse R package" align="right" height="138.5" width="138.5"/>
-
-
-# zueriverse
+# zueriverse <img src="man/figures/Hexagon_zueriverse.png" alt="Hexagon logo for zueriverse R package" align="right" height="138.5" width="138.5"/>
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/zueriverse)](https://CRAN.R-project.org/package=zueriverse)
@@ -28,7 +25,7 @@ Please consult the [documentation](https://statistikstadtzuerich.github.io/zueri
 Zueriplots shows how zuericolors and zueritheme can be provided to generate a number of different graphic types that conform to the corporate design of the city of Zurich. It does not provide additional functionality but shows examples.
 Please consult the [documentation](https://statistikstadtzuerich.github.io/zueriplots/), and you can browse the source code and install the package from the [zueriplots github repository](https://github.com/StatistikStadtZuerich/zueriplots).
 
-## zuericssstyle <img src="man/figures/Hexagon_zueriplots.png" alt="Hexagon logo for zueriplots R package" align="right" height="138.5" width="138.5"/>
+## zuericssstyle <img src="man/figures/Hexagon_zuericssstyle.png" alt="Hexagon logo for zueriplots R package" align="right" height="138.5" width="138.5"/>
 
 Zuericssstyle provides CSS styling for html reports or anything that uses html dependencies, as well as Shiny widgets styled with those CSS properties, allowing the users to create Shiny applications that conform to the corporate design of the city of Zurich.
 Please consult the [documentation](https://statistikstadtzuerich.github.io/zuericssstyle/), and you can browse the source code and install the package from the [zuericssstyle github repository](https://github.com/StatistikStadtZuerich/zuericssstyle).

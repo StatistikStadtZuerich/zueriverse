@@ -6,13 +6,13 @@
 [![GitLab Pipeline](https://cmp-sdlc.stzh.ch/OE-7035/ssz-da/libraries/zueriverse/zueriverse/badges/main/pipeline.svg?key_text=GitlabPipeline&key_width=100)](https://cmp-sdlc.stzh.ch/OE-7035/ssz-da/libraries/zueriverse/zueriverse/badges/main/pipeline.svg?key_text=GitLabPipeline&key_width=100)
 <!-- badges: end -->
 
-Zueriverse is a collection of packages aimed at employees of the city of Zurich working with R. These packages help to create outputs such as graphics, reports or shiny applications that conform to the city's style guidelines. 
+Zueriverse is a collection of packages aimed at employees of the city of Zurich using R. These packages help to create outputs such as graphics, reports or shiny applications that conform to the city's style guidelines. 
 
 Zueriverse itself provides no exported functionality, it serves documentation purposes, gathering the information about all packages in one place. The following packages are part of zueriverse:
 
 ## zuericolors <img src="man/figures/Hexagon_zuericolors.png" alt="Hexagon logo for zuericolors R package" align="right" height="138.5" width="138.5"/>
 
-Zuericolors provides color palettes according to the corporate design of the city of Zurich. 
+Zuericolors provides color palettes according to the corporate design of the city of Zurich, including grey scale, qualitative, sequential, and divergent palettes as well as specific palettes to be used for gender and origin.
 Please consult the [documentation](https://statistikstadtzuerich.github.io/zuericolors/), and you can browse the source code and install the package from the [zuericolors github repository](https://github.com/StatistikStadtZuerich/zuericolors).
 
 ## zueritheme <img src="man/figures/Hexagon_zueritheme.png" alt="Hexagon logo for zueritheme R package" align="right" height="138.5" width="138.5"/>
@@ -22,7 +22,7 @@ Please consult the [documentation](https://statistikstadtzuerich.github.io/zueri
 
 ## zueriplots <img src="man/figures/Hexagon_zueriplots.png" alt="Hexagon logo for zueriplots R package" align="right" height="138.5" width="138.5"/>
 
-Zueriplots shows how zuericolors and zueritheme can be provided to generate a number of different graphic types that conform to the corporate design of the city of Zurich. It does not provide additional functionality but shows examples.
+Zueriplots shows how zuericolors and zueritheme can be used to generate a number of different graphic types that conform to the corporate design of the city of Zurich. It does not provide additional functionality but shows examples.
 Please consult the [documentation](https://statistikstadtzuerich.github.io/zueriplots/), and you can browse the source code and install the package from the [zueriplots github repository](https://github.com/StatistikStadtZuerich/zueriplots).
 
 ## zuericssstyle <img src="man/figures/Hexagon_zuericssstyle.png" alt="Hexagon logo for zueriplots R package" align="right" height="138.5" width="138.5"/>
